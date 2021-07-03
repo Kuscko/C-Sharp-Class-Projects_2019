@@ -1,0 +1,3 @@
+Microsoft SQL Server Management Studio
+
+Can you use the Visual Studio SQL to create a database so the user does not need SQL or Access to use the database functions?
